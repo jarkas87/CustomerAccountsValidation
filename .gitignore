@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CustomerValidator.Application/bin/Debug/net6.0
+/CustomerValidator.Application/obj
+/CustomerValidator.Application.Tests/bin/Debug/net6.0
+/CustomerValidator.Application.Tests/obj
+/CustomerValidator.Domain/bin/Debug/net6.0
+/CustomerValidator.Domain/obj
+/CustomerValidator.WebApi/bin/Debug/net6.0
+/CustomerValidator.WebApi/obj
+/CustomerValidator.WebApi.Tests/bin/Debug/net6.0
+/CustomerValidator.WebApi.Tests/obj
